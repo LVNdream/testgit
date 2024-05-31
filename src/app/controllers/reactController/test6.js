@@ -13,3 +13,9 @@ const fuceeeeee = () => {
 const func = () => {
     console.log("hello")
 }
+
+const func4 = () => {
+    setInterval(() => {
+        console.log("object")
+    }, 3000);
+}
