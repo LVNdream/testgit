@@ -19,3 +19,7 @@ const func4 = () => {
         console.log("object")
     }, 3000);
 }
+
+const update = () => {
+    console.log("object")
+}
