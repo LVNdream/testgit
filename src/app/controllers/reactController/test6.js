@@ -1,3 +1,6 @@
+const hih = () => {
+    console.log("object")
+}
 const testFunc = () => {
     setTimeout(() => {
         console.log("object")
