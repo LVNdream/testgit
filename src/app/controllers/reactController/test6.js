@@ -1,1 +1,5 @@
-console.log("1323123123")
+const testFunc = () => {
+    setTimeout(() => {
+        console.log("object")
+    }, 4000);
+}
