@@ -1,1 +1,3 @@
-console.log("1323123123")
+const fuc = () => {
+    console.log("hello")
+}
