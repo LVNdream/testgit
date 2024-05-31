@@ -1,1 +1,3 @@
-console.log("beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee2")
+const testGitdd = () => {
+    console.log(object)
+}
