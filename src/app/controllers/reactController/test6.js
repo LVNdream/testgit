@@ -1,3 +1,8 @@
+const testFunc = () => {
+    setTimeout(() => {
+        console.log("object")
+    }, 4000);
+}
 const fuceeeeee = () => {
     console.log("hello")
     setTimeout(() => {
