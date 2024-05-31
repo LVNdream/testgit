@@ -1,0 +1,11 @@
+{
+  "mysql": {
+    "connectionLimit": 10,
+    " port": 3306,
+    "host": "localhost",
+    "user": "root",
+    "password": "Nhut19701977@",
+    "database": "nshopping"
+    
+  }
+}

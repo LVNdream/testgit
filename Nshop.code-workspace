@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CNTT/3.Ki2nam4/NodeJSthayChung/TH_NodeJS/contactbook-backend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myproject"
+	}
+}
